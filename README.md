@@ -26,7 +26,7 @@ I love solving hard problems, exploring new technologies, and—true to my usern
 ## 📘 Read My Writing
 I publish essays, dev logs, and technical deep-dives on Substack:
 
-👉 **https://eng_scott.substack.com/**
+👉 **https://engscott.substack.com/**
 
 ---
 
