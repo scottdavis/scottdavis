@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Scott — aka **TerribleSoftware**
+# 👋 Hi, I'm Scott 
 
 I'm a software engineer with **20+ years of experience** building systems in:
 
@@ -7,8 +7,6 @@ I'm a software engineer with **20+ years of experience** building systems in:
 - **C / C++**
 - **Software Architecture**
 - **Artificial Intelligence**
-
-Despite the name **TerribleSoftware**, I actually strive *every single day* to **not** write terrible software.
 
 I love solving hard problems, exploring new technologies, and—true to my username—breaking things in spectacular ways so I can build them back better.
 
@@ -28,7 +26,7 @@ I love solving hard problems, exploring new technologies, and—true to my usern
 ## 📘 Read My Writing
 I publish essays, dev logs, and technical deep-dives on Substack:
 
-👉 **https://terriblesoftware.substack.com/**
+👉 **https://eng_scott.substack.com/**
 
 ---
 
